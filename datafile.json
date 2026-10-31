@@ -1,42 +1,17 @@
 [
+{
+    "title": "Adla Badli (2023) S1-E6",
+    "imageUrl": "https://pub-5c7622c906e642498f315b8d02f34fdc.r2.dev/Adla_Badli_(2023)_Besharams_S01_EP06/Adla_Badli_(2023)_Besharams_S01_EP06.png",
+    "videoUrl": "https://pub-5c7622c906e642498f315b8d02f34fdc.r2.dev/Adla_Badli_(2023)_Besharams_S01_EP06/Adla_Badli_(2023)_Besharams_S01_EP06.m3u8"
+  },
+{
+    "title": "Gaachi (2022) Part-1",
+    "imageUrl": "https://pub-5c7622c906e642498f315b8d02f34fdc.r2.dev/Gaachi_Part_1_(2022)/Gaachi_Part_1_(2022).png",
+    "videoUrl": "https://pub-5c7622c906e642498f315b8d02f34fdc.r2.dev/Gaachi_Part_1_(2022)/Gaachi_Part_1_(2022).m3u8"
+  },
   {
-    "title": "Example Movie",
-    "imageUrl": "https://example.com/poster.jpg",
+    "title": "Dulhe Raja Part-4",
+    "imageUrl": "https://pub-5c7622c906e642498f315b8d02f34fdc.r2.dev/Dulhe_Raja_Part_4/Dulhe_Raja_Part_4.png",
     "videoUrl": "https://pub-5c7622c906e642498f315b8d02f34fdc.r2.dev/Dulhe_Raja_Part_4/Dulhe_Raja_Part_4.m3u8"
-  },
-  {
-    "title": "Example Movie 2",
-    "imageUrl": "https://example.com/poster2.jpg",
-    "videoUrl": "https://example.com/master2.m3u8"
-  },
-  {
-    "title": "Example Movie 3",
-    "imageUrl": "https://example.com/poster2.jpg",
-    "videoUrl": "https://example.com/master2.m3u8"
-  },
-  {
-    "title": "Example Movie 4",
-    "imageUrl": "https://example.com/poster2.jpg",
-    "videoUrl": "https://example.com/master2.m3u8"
-  },
-  {
-    "title": "Example Movie 5",
-    "imageUrl": "https://example.com/poster2.jpg",
-    "videoUrl": "https://example.com/master2.m3u8"
-  },
-  {
-    "title": "Example Movie 6",
-    "imageUrl": "https://example.com/poster2.jpg",
-    "videoUrl": "https://example.com/master2.m3u8"
-  },
-  {
-    "title": "Example Movie 7",
-    "imageUrl": "https://example.com/poster2.jpg",
-    "videoUrl": "https://example.com/master2.m3u8"
-  },
-  {
-    "title": "Example Movie 8",
-    "imageUrl": "https://example.com/poster2.jpg",
-    "videoUrl": "https://example.com/master2.m3u8"
   }
 ]
